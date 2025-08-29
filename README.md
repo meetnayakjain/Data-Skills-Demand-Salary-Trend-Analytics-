@@ -60,7 +60,7 @@ for i in range(5):
 ```
 ### Results
 
-![Trending Top Skills for Data Engineers in the India](3_Project\images\Trending_Top_Skills.png)
+![Trending Top Skills for Data Engineers in the India](3_Project/images/Trending_Top_Skills.png)
 
 ### Insights 
 
@@ -94,7 +94,7 @@ plt.show()
 ```
 #### Results 
 
-![Salary Distribution  of Data Jobs in US](3_Project\images\salary_analysis.png)
+![Salary Distribution  of Data Jobs in US](3_Project/images/salary_analysis.png)
 
 #### Insights 
 
@@ -145,7 +145,7 @@ plt.show()
 ```
 ### Results 
 
-![Most Optimal Skills for Data Analysts](3_Project\images\optimal_skills.png)
+![Most Optimal Skills for Data Analysts](3_Project/images/optimal_skills.png)
 
 ### Insights
 
